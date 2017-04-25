@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 
-class App extends React.component {
+class App extends React.Component {
     render() {
         return (
             <div className="container-fluid">
